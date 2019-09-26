@@ -647,10 +647,16 @@ footer {
 .homefirstpage .main-loop .main-loop-card:nth-child(-n+5) {
 	display:none !important;
 }
-.excerpt {
+/*.excerpt {
     color: rgba(0,0,0,0.59);
     margin-top:10px;
+}*/
+
+blockquote {
+    color: rgba(0,0,0,0.59);
+   
 }
+
 article {
 	font-size:20px;
 	line-height:1.86;
