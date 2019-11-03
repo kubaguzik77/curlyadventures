@@ -120,7 +120,7 @@ Większość mant które widzimy płynie samotnie, ale jest kilka par, jedna tr�
 <div class="videoWrapper">
 <iframe src="https://drive.google.com/file/d/1xhcnKscR3i-S4nakbgUjU2zYjPWwfCK6/preview" width="640" height="480"></iframe>
 </div>
-Rafa to też dom dla pary rekinów
+<span class="caption">Rafa to też dom dla pary rekinów</span>
 
 ## Spokojne życie Labuan Bajo  
 
