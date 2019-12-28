@@ -52,7 +52,7 @@ Rozpoczęcie o świcie było dobrym, choć brutalnym pomysłem. Słońce wstają
 
 {% include image.html file="angkorwat/a3.jpg" description="W Ta Prohm widać, że natura nic sobie nie robi z dzieł człowieka. Potężne drzewa wyrastają wprost z murów świątyni." %}
 
-{% include image.html file="angkorwat/a4.jpg" description="To też sceneria żywcem wyjęta z filmów przygodowych, tutaj kręcony był Tomb Rider." %}
+{% include image.html file="angkorwat/a4.jpg" description="To też sceneria żywcem wyjęta z filmów przygodowych, tutaj kręcony był Tomb Raider." %}
 
 {% include image.html file="angkorwat/a6.jpg" description="Lwy na straży ruin jednego z wejść do Pre Rup." %}
 
