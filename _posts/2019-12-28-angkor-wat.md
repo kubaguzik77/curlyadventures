@@ -62,6 +62,6 @@ Rozpoczęcie o świcie było dobrym, choć brutalnym pomysłem. Słońce wstają
 
 {% include image.html file="angkorwat/a9.jpg" description="Dla mieszkańców to wciąż czynne świątynie, kręcą się tu mnisi, przed świętymi wizerunkami składane są ofiary." %}
 
-{% include image.html file="angkorwat/a8.jpg" description="Młodzi mnisi napierwszy rzut oka są poważni jak starsi koledzy, ale chwilę później gonią się po schodach i szturają parasolami." %}
+{% include image.html file="angkorwat/a8.jpg" description="Młodzi mnisi na pierwszy rzut oka są poważni jak starsi koledzy, ale chwilę później gonią się po schodach i szturają parasolami." %}
 
 Każda ze świątyń jest inna. Niektóre otoczone są murami i ścianą dżungli, inne wodą. Są niskie labirynty i strzeliste wieże otoczone prawie pionowymi schodami. Jeden dzień ledwo nam wystarcza do pokonania zaplanowanej trasy, a i tak to tylko część z udostępnionych do zwiedzania terenów. 
